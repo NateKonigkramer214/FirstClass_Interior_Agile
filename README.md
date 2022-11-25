@@ -27,30 +27,37 @@ There should be one horizontal navigation bar on every page so that it should be
 ### Client Requirments:
 1: Update Logo and headings 
 
-2:Contact us page update font size
+2: Contact us page update font size
 
 3: Add new shop items 
 
-4: only show senior staff on about us page 
+4: Only show senior staff on about us page
 
 ### Purpose
 
-In this project we have to learn how to work with clients and work as a team to complete a given task in this case my task was developer/designer.
+In this project we have to learn how to work with clients and work as a team to complete a given task.
 
 
 ### By the end of this project: 
 
--Have an understanding of the Waterfall Methodology
+-Have an understanding of the Agile Methodology
 
 -Use different tools such as Trello and GitHub, Understand their functionality
 
 -Apply previous knowledge of Wireframes and Design to your Planning
 
-We must use the Waterfall Methodology to show how you planned each step of your project. You must research the Waterfall Methodology, gather the requirements from the client and implement the project using Waterfall Methodology. 
+We must use the Agile Methodology to show how you planned each step of your project. You must research the Agile Methodology, gather the requirements from the client and implement the project using Agile Methodology. 
 
 For this project, we will be working in teams using Role-Play to create a professional work environment for project completion. 
 
 We Understand the different phases of the Software Development Life Cycle( SDLC) including different requirement gathering techniques, designing, coding, and quality assurance/testing. 
 
+#### Company Credits:
+
+-Scrum Master: Melvin Viloria
+
+-Software Development Team: Nathan Konigkramer, Ahmed Shahid Akhundzada
+
+-Product Owner: Blake Willis
 
 `Code languages used: HTML/Bootstrap, CSS, Javascript/React`
